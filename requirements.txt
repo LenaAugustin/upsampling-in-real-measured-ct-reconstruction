@@ -1,0 +1,77 @@
+aiohttp==3.8.5
+aiosignal==1.3.1
+alpha-transform==0.0.1
+astropy==5.3.1
+async-timeout==4.0.2
+attrs==23.1.0
+brotlipy==0.7.0
+certifi @ file:///croot/certifi_1690232220950/work/certifi
+cffi @ file:///work/ci_py311/cffi_1676822533496/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+coloredlogs==15.0.1
+contourpy==1.1.0
+cryptography @ file:///croot/cryptography_1689373676338/work
+cycler==0.11.0
+filelock @ file:///work/ci_py311/filelock_1676823024085/work
+flatbuffers==23.5.26
+fonttools==4.42.0
+frozenlist==1.4.0
+fsspec==2023.6.0
+gmpy2 @ file:///work/ci_py311/gmpy2_1676839849213/work
+h5py==3.9.0
+healpy==1.16.3
+humanfriendly==10.0
+idna @ file:///work/ci_py311/idna_1676822698822/work
+imageio==2.31.1
+Jinja2 @ file:///work/ci_py311/jinja2_1676823587943/work
+joblib==1.3.1
+kiwisolver==1.4.4
+lazy_loader==0.3
+lightning-utilities==0.9.0
+MarkupSafe @ file:///work/ci_py311/markupsafe_1676823507015/work
+matplotlib==3.7.2
+mkl-fft==1.3.6
+mkl-random @ file:///work/mkl/mkl_random_1682950433854/work
+mkl-service==2.4.0
+mpmath @ file:///croot/mpmath_1690848262763/work
+multidict==6.0.4
+networkx @ file:///croot/networkx_1690561992265/work
+numexpr==2.8.4
+numpy==1.23.2
+onnx==1.14.0
+onnxruntime==1.15.1
+packaging==23.1
+pandas==2.0.3
+Pillow==9.4.0
+protobuf==4.23.4
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyerfa==2.0.0.3
+pyFFTW==0.13.1
+pyOpenSSL @ file:///croot/pyopenssl_1690223430423/work
+pyparsing==3.0.9
+PySocks @ file:///work/ci_py311/pysocks_1676822712504/work
+python-dateutil==2.8.2
+pytorch-lightning==2.0.6
+pytz==2023.3
+PyWavelets==1.4.1
+PyYAML==6.0.1
+requests @ file:///croot/requests_1690400202158/work
+scikit-image==0.21.0
+scikit-learn==1.3.0
+scipy==1.11.1
+six==1.16.0
+sklearn==0.0.post7
+sympy @ file:///work/ci_py311_2/sympy_1679339311852/work
+threadpoolctl==3.2.0
+tifffile==2023.7.18
+torch==2.0.1
+torch-radon==1.0.0
+torchaudio==2.0.2
+torchmetrics==1.0.2
+torchvision==0.15.2
+tqdm==4.65.0
+triton==2.0.0
+typing_extensions @ file:///croot/typing_extensions_1690297465030/work
+tzdata==2023.3
+urllib3 @ file:///croot/urllib3_1686163155763/work
+yarl==1.9.2
