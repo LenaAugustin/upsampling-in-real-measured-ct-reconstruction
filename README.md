@@ -5,15 +5,15 @@ Augustin, L., Wagner, F., Thies, M., \& Maier, A. (2024). Neural Network-Based S
 
 
 
-# Overview over python files
+# Overview over Python files
 
 Code that needs to be changed (e.g. the path to the sinograms) is marked "TODO"
 
-- dataset.py: Dataloader for the network
+- dataset.py: dataloader for the network
 - helper.py: helper functions like loading sinograms and saving them
-- inference.py: pass the test set through an .onnx file of the network
+- inference.py: perform inference by passing the test set through an .onnx file of the network
 - interpolate.py: subsample and interpolate sinograms. Used for evaluation of the network
-- SinNet_CNN.py: Convolutional network. Called by train.py
+- SinNet_CNN.py: CNN. Called by train.py
 - SinNet_U-Net.py: U-Net. Called by train.py
 - SSIM.py: calculate mean SSIM and PSNR of a set of reconstructed images
 - train.py: run this code to train the network
